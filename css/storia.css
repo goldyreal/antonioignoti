@@ -43,7 +43,20 @@ main p {
     font-size: 20px;
 }
 
+.video {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.video video {
+    border-radius: 10px;
+    width: 800px;
+}
+
 .taa {
+    margin-bottom: 50px;
     display: flex;
     justify-content: center;
 }
