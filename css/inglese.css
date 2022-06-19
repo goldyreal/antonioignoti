@@ -61,6 +61,20 @@ main p {
     justify-content: center;
 }
 
+.prosegui {
+    margin-left: 30px;
+}
+
+.prosegui:hover {
+    color: #121212;
+    background-color: #bcbcbc;
+    font-size: 37px;
+    padding: 25px 50px;
+    border-radius: 13px;
+    transition: .2s;
+    transform: translateY(0px);
+}
+
 a {
     color: #121212;
     background-color: #bcbcbc;

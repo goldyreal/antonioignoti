@@ -13,7 +13,7 @@ main {
 }
 
 main img {
-    width: 45%;
+    width: 20%;
     border-radius: 20px;
     margin-right: 30px;
     transition: .2s;
@@ -59,6 +59,20 @@ main p {
     margin-bottom: 50px;
     display: flex;
     justify-content: center;
+}
+
+.indietro {
+    margin-right: 30px;
+}
+
+.indietro:hover {
+    color: #121212;
+    background-color: #bcbcbc;
+    font-size: 37px;
+    padding: 25px 50px;
+    border-radius: 13px;
+    transition: .2s;
+    transform: translateY(0px);
 }
 
 a {
